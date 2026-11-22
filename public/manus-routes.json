@@ -1,0 +1,36 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Home"
+    },
+    {
+      "path": "/privacy",
+      "title": "Privacy Policy"
+    },
+    {
+      "path": "/terms",
+      "title": "Terms of Use"
+    },
+    {
+      "path": "/stadion",
+      "title": "The Stadion"
+    },
+    {
+      "path": "/arena",
+      "title": "Arena"
+    },
+    {
+      "path": "/blog",
+      "title": "Blog"
+    },
+    {
+      "path": "/signup",
+      "title": "Sign up"
+    },
+    {
+      "path": "/telegram-bot",
+      "title": "Telegram Bot \u2014 Xtroxian"
+    }
+  ]
+}

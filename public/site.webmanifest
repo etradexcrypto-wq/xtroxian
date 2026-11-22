@@ -1,0 +1,12 @@
+{
+  "name": "Xtroxian",
+  "short_name": "Xtroxian",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050608",
+  "theme_color": "#050608",
+  "icons": [
+    { "src": "/favicon.png", "sizes": "256x256", "type": "image/png" },
+    { "src": "/xtroxian-favicon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
